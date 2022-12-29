@@ -1,0 +1,727 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+/*<------------------------SingleLine Clasess------------------->*/
+.font-family-basic-commercial {
+    font-family: 'Basic Commercial SR Pro'
+}
+
+.font-family-Plantain {
+    font-family: 'Plantain'
+}
+
+.font-family-poppins {
+    font-family: 'Poppins'
+}
+
+.font-family-DM-SANS {
+    font-family: 'DM sans'
+}
+
+.font-weight-700 {
+    font-weight: 700;
+}
+
+.font-weight-400 {
+    font-weight: 400;
+}
+
+.font-weight-900 {
+    font-weight: 900;
+}
+
+.font-weight-600 {
+    font-weight: 900;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.font-size-9 {
+    font-size: 9px;
+}
+
+.font-size-10 {
+    font-size: 10px;
+}
+
+.font-size-10-5 {
+    font-size: 10.5px;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.font-size-9 {
+    font-size: 9px;
+}
+
+.font-size-36 {
+    font-size: 36px;
+}
+
+.font-size-20 {
+    font-size: 20px;
+}
+
+.font-size-13 {
+    font-size: 13px;
+}
+
+.font-size-12 {
+    font-size: 12px;
+}
+
+.font-size-48 {
+    font-size: 48px;
+}
+
+.color-6C6C6C {
+    color: #6C6C6C;
+}
+
+.color-8C8C8C {
+    color: #8C8C8C;
+}
+
+.color-9B9B9B {
+    color: #9B9B9B;
+}
+
+.color-6C6C6C9C {
+    color: #6C6C6C9C;
+}
+
+.color-909090 {
+    color: #909090;
+}
+
+.letterspacing-1 {
+    letter-spacing: 1px;
+}
+
+.letterspacing-0-5 {
+    letter-spacing: 0.5px;
+}
+
+.line-height {
+    line-height: 19px;
+}
+
+.commas-img {
+    position: relative;
+    left: 50px;
+    top: -10px;
+    width: 22px;
+    height: 16px;
+}
+
+.see-more-design {
+    width: 141px;
+    height: 29px;
+    background-color: rgba(217, 217, 217, 0.46);
+    border-radius: 9px;
+}
+
+.card-icons-size {
+    width: 25px;
+    height: 22px;
+}
+
+
+.mini-tick-popout-doc {
+    width: 24px;
+    height: 24px;
+    background-color: #FBD54E;
+    border-radius: 50%;
+}
+
+
+.btn {
+    box-shadow: 0 36px 50px rgba(0, 0, 0, 0.1);
+    border-radius: 85px;
+    border: none;
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 700;
+}
+
+.yellowBtn {
+    background: #FBD54E;
+}
+
+.whiteBtn {
+    background: white;
+}
+
+.smallBtn {
+    width: 134px;
+    height: 55px;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.largeBtn {
+    width: 205px;
+    height: 64px;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+/*<-------------------Header----------------------------------->*/
+
+.header-main {
+    width: 1900px;
+    height: 745px;
+    background: rgba(251, 213, 78, 0.08);
+}
+
+.header-nav {
+    padding: 0 155px;
+}
+
+.header-content {
+    margin-top: 130px;
+    padding: 0 120px;
+}
+
+
+.heading-text {
+    width: 656px;
+    height: 178px;
+    font-family: 'Plantain';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 88px;
+}
+
+.para-text {
+    width: 624px;
+    height: 64px;
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color: #9B9B9B;
+    letter-spacing: 0.3px;
+}
+
+.header-img {
+    position: absolute;
+    left: 687px;
+    top: 252px;
+    width: 858px;
+    height: 483px;
+    background: url("./images/lady-trans.png");
+}
+
+.ellipse1 {
+    position: absolute;
+    width: 322px;
+    height: 322px;
+    left: -225px;
+    top: 47px;
+    background: linear-gradient(180deg, rgba(251, 213, 78, 0.18) 0%, rgba(251, 213, 78, 0) 100%);
+    border-radius: 50%;
+}
+
+
+.ellipse2 {
+    position: absolute;
+    width: 322px;
+    height: 322px;
+    left: 507px;
+    top: -22px;
+    background: linear-gradient(175.21deg, rgba(251, 213, 78, 0.29) 3.87%, rgba(251, 213, 78, 0) 50.32%);
+    border-radius: 50%;
+}
+
+.popout {
+    position: absolute;
+    width: 236px;
+    height: 93px;
+    left: 295px;
+    top: 286px;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 6px 9px 29px rgba(201, 201, 201, 0.25);
+    border-radius: 20px;
+}
+
+.line1 {
+    position: absolute;
+    width: 126px;
+    height: 11px;
+    left: 85px;
+    top: 26px;
+    background: rgba(217, 217, 217, 0.46);
+    border-radius: 9px;
+}
+
+.line2 {
+    position: absolute;
+    width: 91px;
+    height: 11px;
+    left: 85px;
+    top: 46px;
+    background: rgba(217, 217, 217, 0.46);
+    border-radius: 9px;
+}
+
+.popout-img {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 20px;
+    top: 20px;
+    background: url('./images/popout-img.png');
+    border-radius: 9px;
+}
+
+.card-popout {
+    position: absolute;
+    width: 149px;
+    height: 167px;
+    left: 755px;
+    top: -70px;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 6px 9px 29px rgba(201, 201, 201, 0.25);
+    border-radius: 20px;
+}
+
+.card-popout-text {
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 11px;
+    color: #6C6C6C9C;
+}
+
+.help-icon {
+    width: 50px;
+    height: 50px;
+    background: rgba(251, 213, 78, 0.23);
+    border-radius: 9px;
+}
+
+/*<-------------------Footer----------------------------------->*/
+
+.footer-main {
+    width: 1900px;
+    height: 300px;
+    padding: 0 90px;
+    margin-top: 250px;
+}
+
+
+.footer-logo {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.footer-phone-email {
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #909090;
+    line-height: 172.5%;
+}
+
+.footer-yellow-circle {
+    width: 26.63px;
+    height: 26.01px;
+    background: #FBD54E;
+    border-radius: 50%;
+}
+
+.footer-white-circle {
+    width: 26.63px;
+    height: 26.01px;
+    background: #F8F8F8;
+    border-radius: 50%;
+}
+
+.footer-nav-text {
+    font-family: 'Plantain';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+    color: #333535;
+}
+
+.footer-links {
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #909090;
+    padding: 5px;
+}
+
+.footer-rights-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+/*<-------------------Landing Page----------------------------------->*/
+
+
+.service-sec {
+    width: 1900px;
+    margin-top: 130px;
+}
+
+.pill {
+    width: 156px;
+    height: 42px;
+    background: rgba(217, 217, 217, 0.27);
+    border-radius: 21px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.service-heading {
+    font-family: 'Plantain';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 62px;
+}
+
+.service-text {
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #6C6C6C;
+}
+
+.service-card {
+    margin-top: 85px;
+}
+
+.card-comp {
+    width: 259px;
+    height: 300px;
+    background: #FFFFFF;
+    border-radius: 23px;
+}
+
+
+.card-comp-hover {
+    box-shadow: 19px 37px 100px rgba(0, 0, 0, 0.1);
+}
+
+
+.card-icon {
+    width: 56px;
+    height: 56px;
+    background: #FBD54E;
+    border-radius: 8px;
+}
+
+.card-icon-hover {
+    background: rgba(251, 213, 78, 0.3);
+}
+
+
+.card-heading {
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #000000;
+}
+
+.card-para {
+    color: #9B9B9B;
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.3px;
+}
+
+
+.product-sec {
+    width: 1900px;
+    height: 600px;
+    margin-top: 130px;
+    padding: 0 190px;
+}
+
+.product-text {
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    display: flex;
+    align-items: center;
+    color: rgba(155, 155, 155, 0.8);
+}
+
+.doctor {
+    position: relative;
+    top: -100px;
+    left: 170px;
+}
+
+.product-popout {
+    position: relative;
+    width: 176px;
+    height: 212px;
+    left: 270px;
+    top: -535px;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 6px 9px 29px rgba(201, 201, 201, 0.25);
+    border-radius: 20px;
+}
+
+.mini-tick-popout {
+    position: relative;
+    width: 56px;
+    height: 56px;
+    left: 420px;
+    top: -505px;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: -14px 33px 29px rgba(201, 201, 201, 0.25);
+    border-radius: 17px;
+    z-index: 1;
+}
+
+
+.feedback-sec {
+    width: 1900px;
+    height: 600px;
+    margin-top: 130px;
+    padding: 0 190px;
+}
+
+.girl-image {
+    position: relative;
+    top: -140px;
+    left: -150px;
+}
+
+.feedback-popout {
+    position: relative;
+    width: 340px;
+    height: 184px;
+    left: -50px;
+    top: -425px;
+    background: #FFFFFF;
+    box-shadow: -8px 11px 200px rgba(0, 0, 0, 0.07);
+    border-radius: 14px;
+}
+
+.feedback-card {
+    position: relative;
+    width: 236px;
+    height: 93px;
+    left: 225px;
+    top: -719px;
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 6px 9px 29px rgba(201, 201, 201, 0.25);
+    border-radius: 20px;
+}
+
+.heart-popout {
+    position: relative;
+    width: 43px;
+    height: 43px;
+    left: 110px;
+    top: -40px;
+    background: #FBD54E;
+    box-shadow: -12px 6px 29px rgba(201, 201, 201, 0.25);
+    border-radius: 14px;
+}
+
+
+.about-sec {
+    width: 1900px;
+    margin-top: 130px;
+}
+
+.about-comp {
+    width: 303px;
+    height: 181px;
+    background: rgba(251, 213, 78, 0.2);
+    border-radius: 35px;
+}
+
+.newsletter-sec {
+    width: 1900px;
+    margin-top: 220px;
+    background: pur
+}
+
+.newsletter-content {
+    width: 1087px;
+    height: 344px;
+    background-image: url("./images/newsletter.png");
+}
+
+.newsletter-input {
+    width: 347px;
+    height: 54px;
+    background: #FFFFFF;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    color: #9B9B9B;
+}
+
+
+/*<-------------------Input Form----------------------------------->*/
+
+/*.input-main{*/
+/*    width: 791px;*/
+/*    height: 835px;*/
+/*    background: #FFFFFF;*/
+/*    border-radius: 18px;*/
+/*}*/
+
+.form-input {
+    width: 464px;
+    height: 47px;
+    background: #EEF1F5;
+    border-radius: 80px;
+    border: none;
+    padding: 0 15px;
+    font-size: 14px;
+    color: #3F4254;
+}
+
+.form-input:focus {
+    outline: none;
+}
+
+.input-labels {
+    font-family: 'Basic Commercial SR Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.02em;
+    color: #676767;
+}
+
+
+@media only screen and (max-width: 1540px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .header-main {
+        width: 1520px;
+    }
+
+    .header-img {
+        position: absolute;
+        left: 487px;
+        top: 252px;
+    }
+
+    .doctor {
+        position: relative;
+        top: -100px;
+        left: 10px;
+        width: 200px;
+    }
+
+    .product-popout {
+        position: relative;
+        width: 176px;
+        height: 212px;
+        left: 120px;
+        top: -535px;
+    }
+
+    .mini-tick-popout {
+        position: relative;
+        left: 260px;
+        top: -505px;
+    }
+
+    .footer-main {
+        width: 1520px;
+    }
+
+    .service-sec {
+        width: 1520px;
+    }
+
+    .product-sec {
+        width: 1520px;
+    }
+
+    .feedback-sec {
+        width: 1520px;
+    }
+
+    .about-sec {
+        width: 1520px;
+    }
+
+    .newsletter-sec {
+        width: 1520px;
+    }
+}
+
+@media only screen and (min-width: 2560px) {
+    .header-main {
+        width: 2550px;
+    }
+
+    .landing-page {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .header-img {
+        position: absolute;
+        left: 1087px;
+        top: 252px;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    .header-main {
+        width: 1605px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .header-main {
+        width: 1605px;
+    }
+}
